@@ -2,8 +2,8 @@ Package: asfrap
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Tesfaye ",
-           family = "Belay",
+    person(given = "Tesfaye Belay", "
+           family = "Sheleme",
            role = c("aut", "cre"),
            email = "tesfayeb@gmail.com")
 Description: A RAP implementation of the Africa Statistics Flash of ACS/ECA
